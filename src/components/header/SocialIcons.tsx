@@ -11,25 +11,25 @@ interface IconData {
 
 const iconsData: Array<IconData> = [
   {
-    url: "https://www.linkedin.com/",
+    url: "https://linkedin.com/in/valentino-collazo-1b9551236",
     icon: <FaLinkedin />,
   },
   {
-    url: "https://github.com/",
+    url: "https://github.com/Valentino-02",
     icon: <FaGithub />,
   },
   {
-    url: "https://www.linkedin.com/",
+    url: "https://portfolio-valentino-02.vercel.app",
     icon: <FaSuitcase />,
   },
-  {
+  /*   {
     url: "https://www.linkedin.com/",
     icon: <FaFilePdf />,
+  }, */
+  {
+    url: "https://cv-beta-sepia.vercel.app",
+    icon: <LuAppWindow />,
   },
-  /* {
-  url: "https://www.linkedin.com/",
-  icon: <LuAppWindow />,
-}, */
 ];
 
 export default async function SocialIcons() {

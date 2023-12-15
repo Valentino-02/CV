@@ -15,7 +15,7 @@ export default function LanguageToggler({ locale }: { locale: Locale }) {
     router.push(newPathname);
   };
 
-  const shouldRender = true;
+  const shouldRender = false;
 
   if (shouldRender)
     return (
@@ -24,7 +24,7 @@ export default function LanguageToggler({ locale }: { locale: Locale }) {
         className="absolute flex items-center gap-2 text-2xl font-semibold cursor-pointer "
       >
         <GrLanguage />
-        {locale === "en" ? "English" : "Español"}
+        {locale === "en" ? "Spanish" : "Inglés"}
       </button>
     );
 }

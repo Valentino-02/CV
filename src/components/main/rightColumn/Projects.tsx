@@ -85,7 +85,11 @@ export default async function Projects({ locale }: { locale: Locale }) {
       </ul>
       <p className="mt-2">
         {projects.more}
-        <a className="cursor-pointer" href="" target="_blank">
+        <a
+          className="cursor-pointer"
+          href="https://portfolio-valentino-02.vercel.app"
+          target="_blank"
+        >
           portfolio
         </a>
       </p>

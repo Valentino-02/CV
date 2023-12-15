@@ -7,7 +7,7 @@ export default async function Header({ locale }: { locale: Locale }) {
   return (
     <header>
       <LanguageToggler locale={locale} />
-      <SocialIcons />
+      <SocialIcons locale={locale} />
       <Title locale={locale} />
     </header>
   );

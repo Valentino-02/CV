@@ -15,7 +15,7 @@ export default function LanguageToggler({ locale }: { locale: Locale }) {
     router.push(newPathname);
   };
 
-  const shouldRender = false;
+  const shouldRender = true;
 
   if (shouldRender)
     return (

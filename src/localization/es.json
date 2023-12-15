@@ -1,0 +1,71 @@
+{
+  "profession": "Desarrollador Web",
+  "contact": {
+    "title": "Contacto",
+    "location": "Ubicación",
+    "timeZone": "Zona Horaria"
+  },
+  "languages": {
+    "title": "Idiomas",
+    "english": "Inglés - Nivel Nativo",
+    "spanish": "Español - Nativo"
+  },
+  "programmingLanguages": {
+    "title": "Lenguages de Programación"
+  },
+  "knowledge": {
+    "title": "Conocimiento",
+    "frontendDev": "Frontend",
+    "backendDev": "Backend",
+    "gameDev": "Desarrollo de Videojuegos",
+    "responsiveDesign": "Diseño Adaptativo",
+    "agileDev": "Desarrollo Ágil",
+    "testDrivenDev": "Desarrollo Guiado por Tests",
+    "designPrinciples": "Principios de Desarrollo",
+    "versionControl": "Control de Versiones",
+    "programmingParadigms": "Paradigmas de Programación"
+  },
+  "techStack": {
+    "title": "Tech Stack Favorito"
+  },
+  "hobbies": {
+    "musician": "Músico",
+    "cook": "Cocinero",
+    "gameDesigner": "Diseñador de Juegos"
+  },
+  "about": {
+    "title": "Acerca de mi",
+    "text": "Como desarrollador web frontend versátil, con experiencia adicional en desarrollo backend y de juegos, un nivel de inglés nativo, y conocimientos en física, matemáticas y estadísticas, aporto un enfoque holístico y analítico para construir interfaces de usuario intuitivas, con un código limpio y mantenible detrás de ellas. Además del desarrollo de software y la física, también soy cocinero y músico! Esta variedad de actividades me han dotado de varias habilidades blandas, como una buena comunicación, priorización del trabajo en equipo, flexibilidad y adaptabilidad."
+  },
+  "projects": {
+    "title": "Proyectos",
+    "live": "Vivo",
+    "code": "Código",
+    "more": "Más proyectos en mi ",
+    "descriptions": {
+      "dispute": "Clon de Discord con sus principales características, como chats, servidores y canales.",
+      "landing": "Landing page para un artista y violinista ficticio, Deryaba Collin.",
+      "photons": "Videojuego de código libre echo en 2 semanas para la GoGodot 2 game jam, en la cual ganó el tercer puesto.",
+      "portfolio": "Portafolio, para mostrar mis capacidades como desarrollador. clickeaste en mi cara?",
+      "dashboard": "Dashboard para ver y manejar data sobre algún proyecto. Ahora mismo funcionando con data dummy.",
+      "civ": "Herramienta echa para manejar data de un RPG de mesa, en el cual juegas como una civilización que se desarrolla atreves de las épocas.",
+      "crypto": "Portal donde puedes acceder a muchos tipos diferentes de noticias y data sobre las cripto-monedas más usadas."
+    }
+  },
+  "experience": {
+    "title": "Experiencia Laboral",
+    "jobs": {
+      "0": {
+        "job": "Desarrollador Fontend",
+        "location": "Costa Rica",
+        "description": "Desarrollo de interfaces de usuario para una aplicación de gestión universitaria, utilizando la metodología SCRUM, con el conjunto principal de tecnologías siendo React, Material UI, SQL y .NET. Las responsabilidades incluían la creación de Componentes React mientras se gestionaba el estilo, la comunicación con el backend, el estado global, la validación de formularios, la localización y la configuración de variables."
+      }
+    }
+  },
+  "education": {
+    "title": "Educación",
+    "degrees": {
+      "physics": "Licenciatura en Física"
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "profession": "Web Developer",
+  "contact": {
+    "title": "Contact",
+    "location": "Location",
+    "timeZone": "Time Zone"
+  },
+  "languages": {
+    "title": "Languages",
+    "english": "English - Native Level",
+    "spanish": "Spanish - Native"
+  },
+  "programmingLanguages": {
+    "title": "Programming Languages"
+  },
+  "knowledge": {
+    "title": "Knowledge",
+    "frontendDev": "Frontend",
+    "backendDev": "Backend",
+    "gameDev": "Game Development",
+    "responsiveDesign": "Responsive Design",
+    "agileDev": "Agile Development",
+    "testDrivenDev": "Test-driven Development",
+    "designPrinciples": "Design Principles",
+    "versionControl": "Version Control",
+    "programmingParadigms": "Programming Paradigms"
+  },
+  "techStack": {
+    "title": "Favourite Tech Stack"
+  },
+  "hobbies": {
+    "musician": "Musician",
+    "cook": "Cook",
+    "gameDesigner": "Game Designer"
+  },
+  "about": {
+    "title": "About",
+    "text": "As a versatile front end web developer, with added experience in backend and game development, native level english, and expertise in physics, math and statistics, I bring a holistic and analytical approach to building intuitive user interfaces, with maintainable and clean code behind them. Aside from development and physics, I am also a cook and musician! This range of activities has left me with a good number of soft skills, like good communication, prioritizing the team, flexibility and adaptability."
+  },
+  "projects": {
+    "title": "Projects",
+    "live": "Live",
+    "code": "Code",
+    "more": "More projects on my ",
+    "descriptions": {
+      "dispute": "Discord Clone with all of its main features, including live chat, servers and channels.",
+      "landing": "Landing page for a fictional artist and violin player, Deryaba Collin.",
+      "photons": "Open Source game made in 2 weeks for the GoGodot 2 game jam, in which it won the third place.",
+      "portfolio": "Personal portfolio, to showcase my skills as a web developer. Have you clicked on my face?",
+      "dashboard": "Dashboard to view and manage data from one of your projects. Right now, working with dummy data.",
+      "civ": "Tool made to manage data of a pen and pencil RPG game, in which you play as a civilization that develops through the ages.",
+      "crypto": "Portal where you can access many different types of data and news about the most used cryptocurrencies."
+    }
+  },
+  "experience": {
+    "title": "Work Experience",
+    "jobs": {
+      "0": {
+        "job": "Fontend Developer",
+        "location": "Costa Rica",
+        "description": "Development of user interfaces for a university management app, using the SCRUM methodology, with the main tech stack being React, Material UI, SQL, and .NET. Responsibilities included the creation of React Components while managing style, backend communication, global state, form validation, localization, and variables configuration."
+      }
+    }
+  },
+  "education": {
+    "title": "Education",
+    "degrees": {
+      "physics": "Degree in Physics"
+    }
+  }
+}
